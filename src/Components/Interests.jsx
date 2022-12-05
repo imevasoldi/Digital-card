@@ -1,5 +1,5 @@
 const Interests = () => {
-    return <div>
+    return <div className="interests--">
         <h3>Intereses</h3>
         <p>lñasdflj ñasdfjpweñlkd 
             adsñf fwijcpaoimoeij 

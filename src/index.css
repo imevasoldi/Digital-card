@@ -1,0 +1,37 @@
+.info-- {
+  /* position: absolute; */
+width: 317px;
+height: 317px;
+left: 116px;
+top: 44px;
+
+/* background: url(/src/images/react-icon-large.png); */
+background: url(/src/images/img1.jpeg);
+background-repeat: no-repeat;
+border-radius: 10px 10px 0px 0px;
+}
+
+body {
+  position: absolute;
+width: 550px;
+height: 868px;
+left: 65px;
+top: 53px;
+
+background: #23252C;
+}
+.about-- {
+background: #1A1B21;
+color: #F5F5F5;
+
+}
+.interests-- {
+background: #1A1B21;
+color: #F5F5F5;
+
+}
+.footer-- {
+background: #1A1B21;
+color: #F5F5F5;
+
+}

@@ -1,5 +1,5 @@
 export const Footer = () => {
-    return (<ol>
+    return (<ol className="footer--">
         <li>GitHub</li>
         <li>GitHub</li>
         <li>GitHub</li>
