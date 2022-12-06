@@ -7,12 +7,17 @@ import Interests from './Components/Interests'
 import { Footer } from './Components/Footer'
 
 function App() {
-  return <div className='container'>
-    <Info/>
-    <About/>
-    <Interests/>
-    <Footer/>
-  </div>
+  return (
+    <div className='container'>  
+      <div className="info--picture"/>
+        <div className='main--content'>
+        <Info/>
+        <About/>
+        <Interests/>
+        <Footer/>
+      </div>
+    </div>
+  )
 }
 
 export default App

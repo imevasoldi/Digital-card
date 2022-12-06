@@ -1,7 +1,7 @@
 function Info () {
     return <div>
-        <div className="info--"/>
-        <h1>Juan J. Mejía</h1>
+        <h1 className="info--title">Juan J. Mejía</h1>
+        <h2 className="info--subtitle">FrontEnd Developer</h2>
         </div>
 }
 
