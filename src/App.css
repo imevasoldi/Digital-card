@@ -1,10 +1,11 @@
 .info--picture {
     /* position: absolute; */
-    /* padding: 40px; */
-    /* margin-bottom: 1px; */
+
   width: 317px;
   height: 317px;
-  margin: 0 auto;
+  /* left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); */
 
 
   
@@ -14,17 +15,26 @@
   }
   
   .container{
+    /* margin: 0 auto; */
     background: #1A1B21;
-  
+    border-radius: 10px 10px 0px 0px;
+    /* left: 50%;
+  top: 50%; */
+  /* transform: translate(-50%, -50%); */
+    /* align-self: auto;
+    justify-self: baseline;
+   */
+
   }
   
   .main--content{
-    margin: 0 auto;
+    /* position: absolute; */
 
   width: 317px;
   height: 399px;
-  left: 116px;
-  top: 361px;
+  /* left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); */
   
   background: #1A1B21;
   }
