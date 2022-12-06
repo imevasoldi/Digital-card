@@ -13,6 +13,66 @@
   background-repeat: no-repeat;
   border-radius: 10px 10px 0px 0px;
   }
+
+  .buttons--{
+    display: flex;
+    /* place-items: center; */
+  flex-direction: row;
+  justify-content:center;
+  align-items: center;
+    /* place-content: center; */
+  }
+
+  .button--mail {
+    box-sizing: border-box;
+
+padding: 9px 13px 9px 11px;
+margin: 8px;
+
+width: 115px;
+height: 34px;
+/* left: 151px;
+top: 468px; */
+
+/* white */
+
+background: #FFFFFF;
+/* gray/300 */
+
+border: 1px solid #D1D5DB;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+  }
+  
+  .button--linkedin {
+padding: 9px 13px 9px 11px;
+margin: 8px;
+background: #5093E2;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+/* position: absolute; */
+width: 115px;
+height: 34px;
+/* left: 283px;
+top: 468px; */
+  }
+
+  .website--link{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* identical to box height, or 15px */
+
+text-align: center;
+
+color: #F5F5F5;
+  }
   
   .container{
     /* margin: 0 auto; */
