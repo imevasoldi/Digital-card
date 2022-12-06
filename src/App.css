@@ -4,6 +4,8 @@
     /* margin-bottom: 1px; */
   width: 317px;
   height: 317px;
+  margin: 0 auto;
+
 
   
   background: url(/src/images/img1.jpeg);
@@ -17,6 +19,8 @@
   }
   
   .main--content{
+    margin: 0 auto;
+
   width: 317px;
   height: 399px;
   left: 116px;
@@ -44,6 +48,7 @@
     
     color: #F3BF99;
   }
+  
   /* body {
     position: absolute;
   width: 550px;
