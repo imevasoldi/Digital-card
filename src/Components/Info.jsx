@@ -4,8 +4,14 @@ function Info () {
         <h2 className="info--subtitle">FrontEnd Developer</h2>
         <h3 className="website--link"> juan.mejia.website</h3>
         <div className="buttons--">
-            <button className="button--mail">Email</button>
-            <button className="button--linkedin">LinkedIn</button>
+            <button className="button--mail">
+                {/* <i className="trash alternate outline icon"/> */}
+                {/* <i className="edit alternate outline icon"/> */}
+                <i className="mail icon"/>
+                Email</button>
+            <button className="button--linkedin">
+                <i className="github icon"/>
+                LinkedIn</button>
         </div>
         </div>
 }

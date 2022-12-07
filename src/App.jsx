@@ -13,8 +13,8 @@ function App() {
         <div className='main--content'>
         <Info/>
         <About/>
-        <Interests/>
-        <Footer/>
+          <Interests/>
+          <Footer/>
       </div>
     </div>
   )
