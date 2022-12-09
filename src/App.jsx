@@ -11,7 +11,7 @@ function App() {
     // <div>  
     <div className='container'>  
     {/* <div className="info--picture"/> */}
-    <img src='/src/images/img1.jpeg'/>
+    {/* <img src='/src/images/img1.jpeg'/> */}
       {/* <div/> */}
         {/* <div className='main--content'> */}
         {/* <div> */}

@@ -19,7 +19,7 @@ background-repeat: no-repeat;
   /* flex-direction:column; */
   /* justify-content: center; */
   /* align-items: center; */
-  /* width: 480px; */
+  width: 480px;
   /* justify-content: center; */
   /* align-items: center; */
 }
@@ -30,13 +30,10 @@ img {
   /* padding: 10px; */
 }
 
-.main--content{
-width: 317px;
-height: 399px;
-left: 116px;
-top: 361px;
-
-background: #1A1B21;
+.info--content{
+  text-align: center;
+  background: #cf0574;
+  margin: 20px;
 }
 .info--title{
 font-family: 'Inter';
@@ -44,14 +41,14 @@ font-style: normal;
 font-weight: 700;
 font-size: 25px;
 line-height: 30px;
-text-align: center;
+/* text-align: center; */
 
 color: #FFFFFF;
-background: green;
 margin: 0;
 /* margin-top: 100px; */
 /* padding: 10%; */
 /* margin-bottom: 100%; */
+background: green;
 }
 .info--subtitle{
   font-family: 'Inter';
@@ -59,9 +56,52 @@ margin: 0;
   font-weight: 400;
   font-size: 12.8px;
   line-height: 15px;
-  text-align: center;
-
+  /* margin: 0; */
+  /* text-align: center; */
+  margin-top: 6px;
+  margin-bottom: 9px;
+  
   color: #F3BF99;
+  background: yellow;
+}
+.website--link{
+  margin: 0;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  /* identical to box height, or 15px */
+  
+  background: purple;
+color: #F5F5F5;
+}
+.buttons--{
+  margin: 15px;
+  text-align: center;
+  background: chartreuse;
+}
+.button--mail{
+  margin: 9px;
+  cursor: pointer;
+  width: 115px;
+  height: 34px;
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border: none;
+  border-radius: 6px;
+  background: white
+}
+.button--linkedin{
+  margin: 9px;
+  cursor: pointer;
+  width: 115px;
+  height: 34px;
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border: none;
+  border-radius: 6px;
+  background: #5093E2;
 }
 body {
   display: grid;
@@ -72,12 +112,14 @@ body {
 }
 .about-- {
 /* background: #1A1B21; */
+background: red;
 color: #F5F5F5;
 /* text-align:justify; */
 
 }
 .interests-- {
 /* background: #1A1B21; */
+background: blue;
 /* text-align: center; */
 color: #F5F5F5;
 
