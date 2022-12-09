@@ -8,14 +8,18 @@ import { Footer } from './Components/Footer'
 
 function App() {
   return (
+    // <div>  
     <div className='container'>  
-      <div className="info--picture"/>
-        <div className='main--content'>
+    {/* <div className="info--picture"/> */}
+    <img src='/src/images/img1.jpeg'/>
+      {/* <div/> */}
+        {/* <div className='main--content'> */}
+        {/* <div> */}
         <Info/>
         <About/>
-          <Interests/>
-          <Footer/>
-      </div>
+        <Interests/>
+        <Footer/>
+      {/* </div> */}
     </div>
   )
 }

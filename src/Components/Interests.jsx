@@ -1,10 +1,14 @@
 const Interests = () => {
     return <div className="interests--">
         <h3>Intereses</h3>
-        <p>lñasdflj ñasdfjpweñlkd 
+        {/* <p style={{margin: "50px"}}> */}
+        {/* <p>
+            lñasdflj ñasdfjpweñlkd 
             adsñf fwijcpaoimoeij 
-            adkmpojenma 
-        </p>
+            adkmpojenma sdfkasdñflasdjflkj 
+            ñlkjdfñlak 
+            lkjasñdlkfjasñdlkfjasñdlfkasdfjasdñkasñldfañlf
+        </p> */}
     </div>
 }
 export default Interests

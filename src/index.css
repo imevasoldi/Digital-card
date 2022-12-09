@@ -1,18 +1,8 @@
-body {
-  margin: 0;
-  /* margin: 0 auto; */
-
-  /* margin-top:20px; */
-  /* padding: 400px; */
+/* body {
   display: flex;
-  /* place-items: center; */
-  place-content: center;
-  /* /* justify-content: baseline; */
-  /* align-items: flex-end; */
-  /* min-width: 320px; */
-  /* min-height: 100vh; */
-  /* left: 65px;
-  top: 53px; */
+    justify-content: space-evenly;
+    align-items: center;
+
   background: rgb(128, 84, 2);
 
-}
+} */
