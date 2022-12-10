@@ -1,6 +1,6 @@
 function Info () {
     return <div>
-    <img src='/src/images/img1.jpeg'/>
+    <img style={{borderRadius: "10px 10px 0px 0px"}} src='/src/images/img1.jpeg'/>
         <div className="info--content">
             <h1 className="info--title" 
             >
@@ -16,7 +16,7 @@ function Info () {
                 Email</button>
             <button className="button--linkedin">
                 <i className="github icon"/>
-                LinkedIn</button>
+                Github</button>
         </div>
         </div>
 }

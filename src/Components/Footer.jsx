@@ -5,9 +5,10 @@ export const Footer = () => {
             <h2 style={{background: "blue"}}>h2</h2>
             <h3 style={{background: "blue"}}>y h3</h3> */}
         <div className="footer--">
-        <i className="facebook icon"/>
-        <i className="instagram icon"/>
-        <i className="github icon"/>
+        {/* <i style={{width: "25"}} className="facebook icon"/> */}
+        <i style={{fontSize: "35px", cursor: "pointer"}} className="linkedin icon"/>
+        <i style={{fontSize: "35px"}} className="instagram icon"/>
+        <i style={{fontSize: "35px", cursor: "pointer"}} className="github icon"/>
         </div>
     </div>
     )

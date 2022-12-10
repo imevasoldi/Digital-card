@@ -1,7 +1,6 @@
 const Interests = () => {
     return <div className="interests--">
-        <h3>Intereses</h3>
-        {/* <p style={{margin: "50px"}}> */}
+        <h2 style={{margin: "0"}}>Intereses</h2>
         <p>
             lñasdflj ñasdfjpweñlkd 
             adsñf fwijcpaoimoeij 
