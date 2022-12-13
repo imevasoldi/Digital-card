@@ -5,10 +5,11 @@ export const Footer = () => {
             <h2 style={{background: "blue"}}>h2</h2>
             <h3 style={{background: "blue"}}>y h3</h3> */}
         <div className="footer--">
-        {/* <i style={{width: "25"}} className="facebook icon"/> */}
-        <i style={{fontSize: "35px", cursor: "pointer"}} className="linkedin icon"/>
+            <a href="https://github.com/imevasoldi" target="_blank">
+            <i style={{fontSize: "35px"}} className="github icon"/>
+            </a>
         <i style={{fontSize: "35px"}} className="instagram icon"/>
-        <i style={{fontSize: "35px", cursor: "pointer"}} className="github icon"/>
+        <i style={{fontSize: "35px"}} className="linkedin icon"/>
         </div>
     </div>
     )

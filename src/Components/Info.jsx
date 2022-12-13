@@ -8,15 +8,17 @@ function Info () {
             <h2 className="info--subtitle" 
             >
                 FrontEnd Developer</h2>
-            <h3 className="website--link"> juan.mejia.website</h3>
+            <h3 className="website--link"> juan.mejia.com</h3>
         </div>
         <div className="buttons--">
             <button className="button--mail">
                 <i className="mail icon"/>
                 Email</button>
+            <a href="https://github.com/imevasoldi" target="_blank">
             <button className="button--linkedin">
                 <i className="github icon"/>
                 Github</button>
+            </a>
         </div>
         </div>
 }
