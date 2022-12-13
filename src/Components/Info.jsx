@@ -1,6 +1,6 @@
 function Info () {
     return <div>
-    <img style={{borderRadius: "10px 10px 0px 0px"}} src='/src/images/img1.jpeg'/>
+    <img style={{borderRadius: "10px 10px 0px 0px"}} src='/img1.jpeg'/>
         <div className="info--content">
             <h1 className="info--title" 
             >
