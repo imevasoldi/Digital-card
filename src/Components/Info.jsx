@@ -12,11 +12,11 @@ function Info () {
         </div>
         <div className="buttons--">
             <button className="button--mail">
-                <i className="mail icon"/>
+                <i style={{marginRight: "10%"}} className="mail icon"/>
                 Email</button>
             <a href="https://github.com/imevasoldi" target="_blank">
             <button className="button--linkedin">
-                <i className="github icon"/>
+                <i style={{marginRight: "10%"}} className="github icon"/>
                 Github</button>
             </a>
         </div>

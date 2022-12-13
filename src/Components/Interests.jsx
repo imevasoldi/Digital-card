@@ -1,12 +1,9 @@
 const Interests = () => {
     return <div className="interests--">
-        <h2 style={{margin: "0"}}>Intereses</h2>
+        <h2 style={{margin: "0"}}>Interests</h2>
         <p>
-            lñasdflj ñasdfjpweñlkd 
-            adsñf fwijcpaoimoeij 
-            adkmpojenma sdfkasdñflasdjflkj 
-            ñlkjdfñlak 
-            lkjasñdlkfjasñdlkfjasñdlfkasdfjasdñkasñldfañlf
+        Additionally, I have worked with tools such as Jira, Clickup, Postman, git
+and github.
         </p>
     </div>
 }
