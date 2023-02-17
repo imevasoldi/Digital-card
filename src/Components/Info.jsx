@@ -7,14 +7,14 @@ function Info () {
                 Juan J. Mejía</h1>
             <h2 className="info--subtitle" 
             >
-                FrontEnd Developer</h2>
+                FullStack Developer</h2>
             <h3 className="website--link"> juan.mejia.com</h3>
         </div>
         <div className="buttons--">
             <button className="button--mail">
                 <i style={{marginRight: "10%"}} className="mail icon"/>
                 Email</button>
-            <a href="https://github.com/imevasoldi" target="_blank">
+            <a href="https://main--reliable-daffodil-f59850.netlify.app/" target="_blank">
             <button className="button--linkedin">
                 <i style={{marginRight: "10%"}} className="github icon"/>
                 Github</button>
